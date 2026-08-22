@@ -78,13 +78,6 @@ Turning ideas into clean, functional web apps 🚀
 
 ---
 
-### 📊 GitHub Stats & Graphs:
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassan-swe&layout=compact&theme=default&hide_border=true" alt="Top Langs" height="150"/>
-
-![Profile views](https://komarev.com/ghpvc/?username=hassan-swe&color=blue)
-
----
 
 ### 📬 Let's Connect:
 
