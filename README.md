@@ -1,4 +1,5 @@
-# Hi there 👋 Muhammad Hassan here
+<h1 align="center">Hi there, I'm Muhammad Hassan 👋</h1>
+<h3 align="center">Software Engineering grad building with the MERN stack</h3>
 
 Turning ideas into clean, functional web apps 🚀
 
