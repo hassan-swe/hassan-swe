@@ -89,12 +89,8 @@ Turning ideas into clean, functional web apps 🚀
 ### 📬 Let's Connect:
 
 <p>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mhassan.swe@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 📧 mhassan.swe@gmail.com
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mhassan.swe@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <br/>
   <a href="https://github.com/hassan-swe"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-Reach out to me at 📧 mhassan.swe@gmail.com Or explore my projects: https://github.com/hassan-swe
-
-Reach out to me at 📧 mhassan.swe@gmail.com
-Or explore my projects: https://github.com/hassan-swe
