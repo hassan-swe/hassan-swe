@@ -1,5 +1,4 @@
 <h1 align="center">Hi there, I'm Muhammad Hassan 👋</h1>
-<h3 align="center">Software Engineering grad building with the MERN stack</h3>
 </br>
 
 <b><p align="center">
