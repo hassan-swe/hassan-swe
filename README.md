@@ -2,9 +2,9 @@
 <h3 align="center">Software Engineering grad building with the MERN stack</h3>
 </br>
 
-<p align="center">
+<b><p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;JavaScript+%7C+React+%7C+Node.js;Always+learning+something+new" alt="Typing SVG" />
-</p>
+</p></b>
 
 Turning ideas into clean, functional web apps 🚀
 
